@@ -1,0 +1,36 @@
+.top-bit {
+  background-image: url(https://blackrockdigital.github.io/startbootstrap-agency//img/header-bg.jpg);
+  height: 130vh;
+  width: 100%;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+h3 {
+  color: #FEC502;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+}
+
+li {
+  color: #fff;
+  margin: 20px;
+  text-transform: uppercase;
+}
+
+h2 {
+  color: #fff;
+}
+
+h1 {
+  text-transform: uppercase;
+  color: #fff;
+}
